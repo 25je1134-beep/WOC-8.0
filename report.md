@@ -1,4 +1,4 @@
-**WOC 7.0 FINAL REPORT**
+**WOC 8.0 FINAL REPORT**
 
 
 
@@ -73,4 +73,5 @@ I submitted two distinct approaches for the competition:
 **4. Conclusion:**
 
 **The Winter of Code was a valuable experience in building ML models from the ground up. The combination of deep learning and custom metric optimization proved to be the most effective strategy for the Binary Buzz competition.**
+
 
